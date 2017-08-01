@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_userCarianResult" value="name:no_tracking;datatype:string,name:tarikh_sampai;datatype:string,name:penerima;datatype:blob,name:no_tel;datatype:string,name:id;datatype:blob,name:jenis;datatype:blob,name:status;datatype:string,name:tarikh_terima;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_padamRekod" value="name:no_tracking;datatype:string,name:penerima;datatype:blob,name:no_tel;datatype:int,name:id;datatype:blob,name:jenis;datatype:blob" />
+</info>

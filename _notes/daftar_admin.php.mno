@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_daftar_admin" value="name:user;datatype:blob,name:pass;datatype:blob,name:nama;datatype:blob" />
+</info>

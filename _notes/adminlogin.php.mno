@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_admin_login" value="name:user;datatype:blob,name:pass;datatype:blob" />
+	<infoitem key="UD_Recordset1" value="name:user;datatype:blob,name:pass;datatype:blob" />
+	<infoitem key="UD_adminlogin" value="name:user;datatype:blob,name:pass;datatype:blob" />
+</info>
